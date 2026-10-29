@@ -9,8 +9,6 @@ function App() {
 
   return (
     <>
-      <h1>Jonathan Ibanez</h1>
-      <button>🌍</button>
     </>
   )
 }
